@@ -1,2 +1,2 @@
 # PRJ4M1I
-Practical Academic Project  at UNISA
+Learn web development through Github
